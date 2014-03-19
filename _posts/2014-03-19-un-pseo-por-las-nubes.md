@@ -11,7 +11,7 @@ tags: [charla, tryit, nubes, cloud, owncloud]
 
 <img src="http://tryit.fi.upm.es/images/logo_cabecera.png">
 
-En mi charla del día 19 de Marzo de 2014, en la ETSIINF durante la jornada del TryIr! habé sobre cómo crear tu propia nube de datos y analizamos las alternativas y ventajas disponibles. 
+En mi charla del día 19 de Marzo de 2014, en la ETSIINF durante la jornada del TryIr! hablé sobre cómo crear tu propia nube de datos y analizamos las alternativas y ventajas disponibles. 
 
 Aquí os dejo en pdf la presentación de la charla, que contienen los enlaces a todo lo mostrado y comentado.
 
